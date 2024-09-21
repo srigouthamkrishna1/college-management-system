@@ -1,4 +1,4 @@
-const backend_url='https://college-management-system-ylmb.onrender.com';
+const backend_url='https://college-management-system-ylmb.onrender.com/api';
 const  backend_api=
 {
     signup:{
